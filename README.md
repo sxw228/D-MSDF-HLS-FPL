@@ -1,12 +1,12 @@
 ## 文件结构
--EDA_TOOLS  
+*EDA_TOOLS  
 	D-MSDF-HLS-master		Lana's tools  
 	online_verifier			C++ model  
 	online_verifier_py		Python model with GMP 
 	Parser				The tool used in FPL  
-	Other scripts  			TODO
--RTL					RTL DESIGN  
--DOCUMENTS  
+	Other scripts  			TODO  
+*RTL					RTL DESIGN  
+*DOCUMENTS  
 	Paper  
 	Visio files  
 	PPT  
