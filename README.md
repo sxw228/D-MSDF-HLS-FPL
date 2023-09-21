@@ -21,12 +21,12 @@
 
 ### windows上的流程
 3.在EDA_TOOLS/online_verifer里指定.dot文件路径,运行dot2hdl,得到.v后缀文件,这是最终生成的rtl  
-'''
+```
 hdl_writer hdl_writer;
 parse_dot("F:/msdf/matlab/jacobi_5");
 check_netlist();
 hdl_writer.write_hdl("F:/msdf/matlab/jacobi_5", 0);
-'''
+```
 4.(TODO)生成testbench  
 
 ### FPL实验
